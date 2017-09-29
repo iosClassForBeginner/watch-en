@@ -26,7 +26,7 @@ https://www.meetup.com/iOS-Development-Meetup-for-Beginner/
 
 ## 1, Collect Resources
 
-> 1-1. Drop your resource into your "Assets.xcassets"
+1-1. Drop your resource into your "Assets.xcassets"
 
 Get resourse from [here](https://github.com/iosClassForBeginner/watch-en/blob/master/watch-en/Assets.xcassets/bg.imageset/bg.jpg) or you can get your favoirte image from [here](https://unsplash.com/)
 
@@ -34,27 +34,27 @@ Get resourse from [here](https://github.com/iosClassForBeginner/watch-en/blob/ma
 
 #### 🗂 Main.storyboard
 
-> 2-0. Add UIImageView in the storyboad
+2-1. Add UIImageView in the storyboad
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/1.gif" /></div></details>
 
-> 2-1. Set image, content mode and Autosizing
+2-2. Set image, content mode and Autosizing
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/2.gif" /></div></details>
 
-> 2-2. Add UILabel for displaying time
+2-3. Add UILabel for displaying time
 You can set text color depends on your background image.
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/3.gif" /></div></details>
 
-> 2-3. Change Label attributes
+2-4. Change Label attributes
 You can set text color depends on your background image.
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/4.gif" /></div></details>
 
-* You can add date label too (It's a samme process from 2.2, 2.3).
+* You can add date label too (It's a samme process from 2.3, 2.4).
 
 ## 4, Connect UI components on Storyboard to the classes
 
 #### 🗂 Main.storyboard -> ViewController.swift
 
-> 4-1. Connect Time lavel and date label to your "ViewController.swift"
+4-1. Connect Time lavel and date label to your "ViewController.swift"
 
 ★ control + drag in storyboard to create a control segue
 
