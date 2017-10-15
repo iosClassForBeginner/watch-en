@@ -30,7 +30,7 @@ https://www.meetup.com/iOS-Development-Meetup-for-Beginner/
 
 Get resourse from [here](https://github.com/iosClassForBeginner/watch-en/blob/master/watch-en/Assets.xcassets/bg.imageset/bg.jpg) or you can get your favoirte image from [here](https://unsplash.com/)
 
-## 2, Design your app (Optional)
+## 2, Design your app
 
 #### 🗂 Main.storyboard
 
